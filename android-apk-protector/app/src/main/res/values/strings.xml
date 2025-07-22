@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">APK Protector</string>
+    <string name="select_apk">Select APK File</string>
+    <string name="browse_apk">Browse APK File</string>
+    <string name="no_apk_selected">No APK selected</string>
+    <string name="protection_settings">Protection Settings</string>
+    <string name="owner_mode">Owner (no expiration)</string>
+    <string name="trial_days">Trial Days</string>
+    <string name="trial_days_hint">Set trial period in days (ignored if Owner is checked)</string>
+    <string name="protect_apk">Protect APK</string>
+    <string name="status">Status</string>
+    <string name="progress_format">Progress: %d%%</string>
+    <string name="ready">Ready</string>
+    <string name="warning_text">⚠️ For personal use only. Protect your own APKs responsibly.</string>
+    <string name="analyzing_apk">Analyzing APK...</string>
+    <string name="extracting_dex">Extracting DEX files...</string>
+    <string name="generating_payload">Generating encrypted payload...</string>
+    <string name="creating_protected_apk">Creating protected APK...</string>
+    <string name="signing_apk">Signing APK...</string>
+    <string name="saving_apk">Saving protected APK...</string>
+    <string name="complete">Complete!</string>
+    <string name="error_format">Error: %s</string>
+    <string name="protection_complete_format">Protection complete!\nSaved to: %s</string>
+    <string name="apk_selected_format">APK selected: %s</string>
+    <string name="starting_protection">Starting protection...</string>
+</resources>
